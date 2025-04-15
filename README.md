@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Lecture Asisstant<br>🌱 I’m currently learning Machine Learning
+🔭 I’m currently working on Teaching Asisstant<br>🌱 I’m currently learning Artificial Intelligence
 
 
 ## 🌐 Socials:
