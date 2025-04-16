@@ -1,7 +1,5 @@
 # About Me:
-**`Computer Engineering | Fresh Graduate`**
-
-I graduated with a Bachelor's degree in Computer Engineering from [Andalas University](https://unand.ac.id/) in 2024.
+**`Computer Engineering`**
 
 During my studies, I served as the Coordinator of Research and Development in the Robotic and Embedded System division.
 
